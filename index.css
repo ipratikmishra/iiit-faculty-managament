@@ -1,0 +1,31 @@
+body{
+	margin:0;
+	padding: 0;
+	background-image: url("bg3.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    background-size: cover;
+    	}
+
+
+.photo
+{
+	border-radius: 40px;
+}
+.infoBox h2{font-size:20px;
+	        font-family:Verdana;
+	        color:rgb(153, 0, 0);
+			text-shadow: 2px 2px rgb(70, 0, 0);
+}
+.infoBox h3
+{
+	text-shadow: 1px 1px darkred;
+	font-size:14px;
+	font-family:Monaco;
+	color:red
+}
+.box a
+{
+	text-decoration: none
+}	

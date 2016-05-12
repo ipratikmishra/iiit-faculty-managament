@@ -1,0 +1,77 @@
+
+.navbar-container{
+    margin-bottom: 4em;
+}
+.navbar {
+
+    padding: 1em;
+    background-color: orange;
+    float:right;
+    margin-right: 11em; 
+}
+.navbar li {
+
+    float: left;
+    display: inline;
+}
+.navbar li a {
+    
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar li a:hover {
+    background-color: red;
+}
+.college-name-and-logo{
+    margin-right: 6em;
+    font-size:2em;
+    line-height:1.5em;
+    text-align:right;
+    color:#333;
+    font-family:"times new roman";
+
+}
+.college-name-and-logo .college-logo img{height:100px;float: left; margin-left:6em;margin-top: 0.2em}
+.about{
+    width: auto;
+    padding: 10px;
+    border: 2px solid gray; 
+    color: white;
+    background: rgba(0, 0, 0, 0.7);
+}
+.carousel slide{
+
+    margin-left: 12em;
+    width:80%;
+}
+.carousel-inner img{
+     width: 70%;
+  height: 600px;
+}
+.carousel-inner .item img{
+    width: 100%;
+    height: 600px;
+}
+.carousel-indicators
+{
+    height: 200px;
+} 
+.rest{
+    margin-top: 5em;
+    margin-left: 12em;
+    width:80%;
+}
+.bg{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+
+}
+footer{
+background-color:#f5f5f5;
+border-top:2px solid #ccc;
+padding:1em;
+text-align:center}
+.login{
+}
